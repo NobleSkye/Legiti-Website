@@ -10,12 +10,12 @@ export const ADS = {
         image: "/img/pyro_ad.png",
         alt: "Use code GEYS1ZIJ on Pyro to support us on your first payment.",
         name: "Pyro",
-        blurb: "Need a server? Use code GEYS1ZIJ on your first payment and Pyro gives us a cut."
+        blurb: "Need a server? Use code GEYS1ZIJ on your first payment Pyro gives us a cut."
     },
     kofi: {
         label: "Support us",
         // TODO: replace with the real LegitiDevs Ko-fi page
-        href: "https://ko-fi.com/legitidevs",
+        href: "https://ko-fi.com/prettyskye",
         alt: "Buy LegitiDevs a coffee on Ko-fi.",
         name: "Ko-fi",
         blurb: "Prefer Ko-fi? Tip us there, one-off or monthly.",
