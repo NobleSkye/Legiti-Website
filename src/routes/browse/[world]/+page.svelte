@@ -103,7 +103,7 @@
                 </div>
             </div>
             <div class="right">
-                <Advertisement />
+                <Advertisement ad="random" />
             </div>
         </div>
     </div>

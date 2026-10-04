@@ -119,7 +119,7 @@
 <div class="main-container">
     <div class="main-wrapper">
         <div class="left">
-            <Advertisement />
+            <Advertisement ad="random" />
             <div class="facet">
                 <div>
                     <p>Sort</p>
